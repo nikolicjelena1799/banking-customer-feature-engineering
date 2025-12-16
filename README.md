@@ -100,5 +100,5 @@ The entire pipeline is implemented in SQL and follows these steps:
 ---
 
 ## Final Output
-The final result is a persistent table:
+The final result is a persistent table banca.feature_cliente
 
